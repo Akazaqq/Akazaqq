@@ -1,5 +1,6 @@
-## Hi there 👋
+ ## **seja bem vindo** 🐻‍❄️
 
+### sou aluno da _alura start_
 <!--
 **Akazaqq/Akazaqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
