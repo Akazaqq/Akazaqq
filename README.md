@@ -1,7 +1,7 @@
  ## **seja bem vindo** 🐻‍❄️
 
 ### sou aluno do _evandro_ 💚
-_e os guri_
+_e os **GURI**_
 <!--
 **Akazaqq/Akazaqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
